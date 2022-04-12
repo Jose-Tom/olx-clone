@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/olx-clone/static/css/main.c3bc984f.chunk.css",
-    "main.js": "/olx-clone/static/js/main.4dc3b959.chunk.js",
-    "main.js.map": "/olx-clone/static/js/main.4dc3b959.chunk.js.map",
+    "main.js": "/olx-clone/static/js/main.bc307ad2.chunk.js",
+    "main.js.map": "/olx-clone/static/js/main.bc307ad2.chunk.js.map",
     "runtime-main.js": "/olx-clone/static/js/runtime-main.f2a2715e.js",
     "runtime-main.js.map": "/olx-clone/static/js/runtime-main.f2a2715e.js.map",
-    "static/js/2.ec21801f.chunk.js": "/olx-clone/static/js/2.ec21801f.chunk.js",
-    "static/js/2.ec21801f.chunk.js.map": "/olx-clone/static/js/2.ec21801f.chunk.js.map",
+    "static/js/2.d58f8055.chunk.js": "/olx-clone/static/js/2.d58f8055.chunk.js",
+    "static/js/2.d58f8055.chunk.js.map": "/olx-clone/static/js/2.d58f8055.chunk.js.map",
     "index.html": "/olx-clone/index.html",
-    "precache-manifest.7526bbd7e842551c483d39e15ed1f4e6.js": "/olx-clone/precache-manifest.7526bbd7e842551c483d39e15ed1f4e6.js",
+    "precache-manifest.e4a5e1b1f56f1dff7f514f7d3c591862.js": "/olx-clone/precache-manifest.e4a5e1b1f56f1dff7f514f7d3c591862.js",
     "service-worker.js": "/olx-clone/service-worker.js",
     "static/css/main.c3bc984f.chunk.css.map": "/olx-clone/static/css/main.c3bc984f.chunk.css.map",
-    "static/js/2.ec21801f.chunk.js.LICENSE.txt": "/olx-clone/static/js/2.ec21801f.chunk.js.LICENSE.txt",
+    "static/js/2.d58f8055.chunk.js.LICENSE.txt": "/olx-clone/static/js/2.d58f8055.chunk.js.LICENSE.txt",
     "static/media/olx-logo.png": "/olx-clone/static/media/olx-logo.12024631.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f2a2715e.js",
-    "static/js/2.ec21801f.chunk.js",
+    "static/js/2.d58f8055.chunk.js",
     "static/css/main.c3bc984f.chunk.css",
-    "static/js/main.4dc3b959.chunk.js"
+    "static/js/main.bc307ad2.chunk.js"
   ]
 }
