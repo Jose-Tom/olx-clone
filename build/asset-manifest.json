@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/olx-clone/static/css/main.c3bc984f.chunk.css",
+    "main.js": "/olx-clone/static/js/main.00ff69e5.chunk.js",
+    "main.js.map": "/olx-clone/static/js/main.00ff69e5.chunk.js.map",
+    "runtime-main.js": "/olx-clone/static/js/runtime-main.f2a2715e.js",
+    "runtime-main.js.map": "/olx-clone/static/js/runtime-main.f2a2715e.js.map",
+    "static/js/2.d58f8055.chunk.js": "/olx-clone/static/js/2.d58f8055.chunk.js",
+    "static/js/2.d58f8055.chunk.js.map": "/olx-clone/static/js/2.d58f8055.chunk.js.map",
+    "index.html": "/olx-clone/index.html",
+    "precache-manifest.16dbdef1a7e99e0e346080fa184947e8.js": "/olx-clone/precache-manifest.16dbdef1a7e99e0e346080fa184947e8.js",
+    "service-worker.js": "/olx-clone/service-worker.js",
+    "static/css/main.c3bc984f.chunk.css.map": "/olx-clone/static/css/main.c3bc984f.chunk.css.map",
+    "static/js/2.d58f8055.chunk.js.LICENSE.txt": "/olx-clone/static/js/2.d58f8055.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.png": "/olx-clone/static/media/olx-logo.12024631.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a2715e.js",
+    "static/js/2.d58f8055.chunk.js",
+    "static/css/main.c3bc984f.chunk.css",
+    "static/js/main.00ff69e5.chunk.js"
+  ]
+}
